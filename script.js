@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', function() {
     var zafiroLink = document.getElementById('zafiro-link');
     zafiroLink.addEventListener('click', function(event) {
         event.preventDefault();
-        window.location.href = 'https://server.pro';
+        window.location.href = 'https://server.pro/27337911';
     });
 
     // Animación del título
