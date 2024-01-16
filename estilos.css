@@ -166,3 +166,37 @@ section a:hover {
 .anuncios-importantes li strong {
   color: #ff3434; /* Color para resaltar el texto fuerte (strong) */
 }
+
+/* Estilos específicos para la sección de Calendario de Eventos */
+.calendario {
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    margin-bottom: 30px;
+}
+
+.calendario h2 {
+    color: #333;
+    border-bottom: 2px solid #ccc;
+    padding-bottom: 10px;
+}
+
+.calendario p {
+    color: #555;
+}
+
+.evento-info {
+    margin-top: 20px;
+}
+
+.server-name, .server-port {
+    font-weight: bold;
+    color: #007BFF;
+}
+
+.unete-msg {
+    font-size: 18px;
+    color: #28a745; /* Color verde para resaltar el mensaje de unirse */
+    margin-top: 10px;
+}
